@@ -1,0 +1,9 @@
+{
+    "name": "cn-zh",
+    "version": "0.0.1",
+    "description": "Translate between simplified Chinese and traditional Chinese",
+    "background": {
+	"scripts": ["background.js"],
+    }
+    "manifest_version": 2
+}
